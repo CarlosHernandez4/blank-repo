@@ -1,0 +1,6 @@
+{
+    "scope": "x_ritm_log",
+    "scopeId": "b125d715d183417981ce0d1579dcd854",
+    "name": "RITM Open Log",
+    "tsconfigPath": "./src/server/tsconfig.json"
+}
